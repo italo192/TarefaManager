@@ -35,8 +35,6 @@ tarefamanager/
 Licença
 Este projeto está licenciado sob a MIT License.
 
-Agora é só copiar tudo de uma vez!
-
 
 
 
